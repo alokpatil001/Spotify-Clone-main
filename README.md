@@ -68,8 +68,7 @@ spotify-clone/
 
 ## 🙋‍♂️ Author
 
-Pankaj
-
+Alok Patil
 ---
 
 ## ⭐ Support
